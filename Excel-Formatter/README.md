@@ -1,1 +1,0 @@
-An Excel formatter. This project solves a very specific problem. That of having multiple rows within a single row that need to be separated.
